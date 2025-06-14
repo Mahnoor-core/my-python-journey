@@ -1,16 +1,16 @@
-# my-python-journey
+## my-python-journey
 A complete step by step python code as a beginner
 
 ---
 
-# 🚀 My Python Learning Journey
+### 🚀 My Python Learning Journey
 
 Hi! I'm learning Python and using this repository to track my progress, practice problems, and share my understanding.<br>
 Each file includes my code, comments, and explanation of concepts. Feedback is welcome! 🙌
 
 ---
 
-## 📚 Topics I'm Covering
+#### 📚 Topics I'm Covering
 
 - ✅ Variables and Data Types
 - ✅ If/Else Conditions
@@ -22,7 +22,7 @@ Each file includes my code, comments, and explanation of concepts. Feedback is w
 
 ---
 
-## 🧠 Why I Made This Repo
+#### 🧠 Why I Made This Repo
 
 - To document my learning
 - To stay consistent with daily practice

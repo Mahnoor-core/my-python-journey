@@ -6,7 +6,11 @@ Welcome")
                     
 
 print("Hello World \nWelcome")
-                     # Here \n is Escape Sequence for nxt line
+                     # Here \n is Escape Sequence for new line
+
+print("What are Escape Sequence?")
+                     # Escape Sequence are the characters that indicates a special action
+
 
 
 

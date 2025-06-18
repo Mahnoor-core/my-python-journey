@@ -1,6 +1,8 @@
 
+
 print("Hello World
 Welcome")
+
                      # It will throw error
                      # if we want a new line we can use Escape Sequence
                     
@@ -12,6 +14,7 @@ print("What are Escape Sequence?")
                      # Escape Sequence are the characters that indicates a special action
 
 
+'''--------------'''
 
 
 print("How to add comments in python?")

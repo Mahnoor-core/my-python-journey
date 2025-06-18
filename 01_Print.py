@@ -14,4 +14,3 @@ print("Hello")
         # sep and end are optional
         # Default sep is space
         # For end, by default there is new line
-

@@ -1,7 +1,7 @@
-"""
+
 print("Hello World
 Welcome")
-"""
+
 
 # It will throw error
 # if we want a new line we can use Escape Sequence

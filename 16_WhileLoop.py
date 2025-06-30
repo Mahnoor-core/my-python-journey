@@ -12,3 +12,18 @@ while(j>0):
     print(j)
     j = j - 1
 print("------")
+
+
+
+# We can create a do while loop with while loop
+# by making an infinite while loop
+# and adding a condition inside the loop
+
+"""
+i = 0
+while True:
+    print(i)
+    i = i + 1
+    if(i==5):
+        break
+"""
